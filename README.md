@@ -1,15 +1,12 @@
 <h1 align="center">raprite</h1>
 
 <p align="center">
-  Open-source contributions only
+  <em>Open-source contributions only</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open--Source-Contributor-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Python-Primary-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Open--Source-Contributor-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Python-Primary-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-0A66C2?style=flat-square" />
   <img src="https://img.shields.io/badge/Data%20Science-Analytics-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Models-success?style=flat-square" />
@@ -18,52 +15,52 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-Visual%20AI-informational?style=flat-square" />
 </p>
 
+<br/>
+
 ---
 
 ## About
 
-**raprite** is the dedicated open-source GitHub identity of  
+**raprite** is a dedicated open-source GitHub identity maintained by  
 [@alexcj10](https://github.com/alexcj10).
 
-This account is **specifically and exclusively** created for open-source contributions
-originating from the work, learning, and research done under the main profile.
+This account exists **exclusively** for contributing to open-source projects derived
+from learning, experimentation, and research conducted on the main profile.
 
-No personal projects are hosted here.  
-All repositories, pull requests, and discussions exist for open-source collaboration.
+No personal or standalone projects are hosted here.  
+All activity is focused on improving existing open-source systems.
 
 ---
 
-## Focus Areas
-
-Most contributions from this account are related to:
+## Domains of Contribution
 
 - 🐍 **Python**
 - 🤖 **Artificial Intelligence**
 - 📊 **Data Science**
 - 🧠 **Machine Learning**
 - 🔬 **Deep Learning**
-- 🗣️ **Natural Language Processing (NLP)**
+- 🗣️ **Natural Language Processing**
 - 👁️ **Computer Vision**
 
 ---
 
-## Contribution Philosophy
+## Contribution Principles
 
 - Learn by contributing
-- Improve existing systems
 - Write clean, maintainable, and well-documented code
-- Respect project standards and community guidelines
-- Give back to the open-source ecosystem
+- Follow project conventions and best practices
+- Respect maintainers and community feedback
+- Aim for long-term, meaningful impact
 
 ---
 
-## Relationship to alexcj10
+## Account Relationship
 
-- **alexcj10** → Personal projects, experiments, research, and product builds  
+- **alexcj10** → Personal projects, applied research, and system development  
 - **raprite** → Open-source contributions only
 
-For original projects or end-to-end systems, visit 👉  
-[@alexcj10](https://github.com/alexcj10)
+For original projects and complete implementations, visit:  
+👉 [@alexcj10](https://github.com/alexcj10)
 
 ---
 
