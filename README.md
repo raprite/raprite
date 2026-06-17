@@ -1,15 +1,7 @@
-<h1 align="center">raprite</h1>
+# 🌱 raprite
 
-<p align="center">
-  <em>Open-source contributions only</em>
-</p>
+Open-source contributions in AI, ML, DL, Data Science, and Python.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-6F42C1?style=flat" />
-</p>
+This profile is dedicated to contributing to community-driven projects, improving existing tools, fixing issues, and collaborating within the open-source ecosystem.
 
-<p align="center">
-  Maintained by <a href="https://github.com/alexcj10">@alexcj10</a>
-</p>
+Maintained by [@alexcj10](https://github.com/alexcj10)
